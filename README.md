@@ -1,2 +1,1 @@
-# Free-Roadbuck-Generator
-Generate free roadbucks!
+your roadbucks shall generate you mf
